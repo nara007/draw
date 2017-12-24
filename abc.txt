@@ -1,0 +1,6 @@
+function() {
+
+
+	newfunction();
+	console.log('call this new function');
+}

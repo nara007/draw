@@ -3,8 +3,8 @@ function myfunction(){
 	console.log('');
 	console.log('');
 	console.log('');
-	console.log('');
-	console.log('');
+	hello
 	console.log('');
 
 }
+hello
